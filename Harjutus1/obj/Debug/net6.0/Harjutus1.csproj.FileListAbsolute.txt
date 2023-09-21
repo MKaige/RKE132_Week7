@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\bin\Debug\net6.0\Harjutus1.exe
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\bin\Debug\net6.0\Harjutus1.deps.json
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\bin\Debug\net6.0\Harjutus1.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\bin\Debug\net6.0\Harjutus1.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\bin\Debug\net6.0\Harjutus1.pdb
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\refint\Harjutus1.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.pdb
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\Harjutus1.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus1\obj\Debug\net6.0\ref\Harjutus1.dll

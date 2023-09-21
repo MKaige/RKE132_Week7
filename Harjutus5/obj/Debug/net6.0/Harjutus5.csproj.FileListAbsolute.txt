@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\bin\Debug\net6.0\Harjutus5.exe
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\bin\Debug\net6.0\Harjutus5.deps.json
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\bin\Debug\net6.0\Harjutus5.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\bin\Debug\net6.0\Harjutus5.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\bin\Debug\net6.0\Harjutus5.pdb
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\refint\Harjutus5.dll
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.pdb
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\Harjutus5.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Functions\Harjutus5\obj\Debug\net6.0\ref\Harjutus5.dll
